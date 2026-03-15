@@ -1,0 +1,45 @@
+How to Run the Project
+----------------------
+
+Step 1: Clone the Repository
+
+Step 2: Open the Project
+Open the project in any Java IDE such as:
+- IntelliJ IDEA
+- Eclipse
+- NetBeans
+- VS Code (with Java extension)
+
+Step 3: Compile the Program
+javac LaxshmiChitFund.java
+
+Step 4: Run the Program
+java LaxshmiChitFund
+
+
+Default Login Credentials(firstly you have to do employee login then only you can see the customer accounts and the [restriction are there for employee and users for security purposes])
+-------------------------
+
+Customer Accounts:
+
+Username: Ram
+Password: 1234
+
+Username: Tanu
+Password: 2345
+
+Username: Shantanu
+Password: 3456
+
+Username: Shabnam
+Password: 4567
+
+
+Employee Login:
+
+Username: Vishal Mishra
+Password: Vishal1234
+
+
+Application Screens
+***this was a college project from vit Bhopal featuring four students namely -vishal,santanu,tanu,sabnam***
